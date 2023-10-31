@@ -1,4 +1,11 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
+
+A simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). 
+
+Created with 
+HTML
+CSS 
+JQuery
 
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
@@ -13,3 +20,5 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+Screenshot:
