@@ -2,10 +2,15 @@
 
 A simple calendar application that allows a user to save events for each hour of a typical working day (9am–5pm). 
 
-Created with 
+##Created with 
 HTML
 CSS 
 JQuery
+
+User Story
+AS AN employee with a busy schedule
+I WANT to add important events to a daily planner
+SO THAT I can manage my time effectively
 
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
@@ -22,3 +27,5 @@ WHEN I refresh the page
 THEN the saved events persist
 
 Screenshot:
+
+
