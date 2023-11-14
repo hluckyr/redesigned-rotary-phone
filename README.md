@@ -27,5 +27,6 @@ WHEN I refresh the page
 THEN the saved events persist
 
 Screenshot:
+![Alt text](image.png)
 
 
